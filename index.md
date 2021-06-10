@@ -3,7 +3,9 @@
 The Colloquium on Combinatorial Designs is a quarterly meeting. The goal is to provide a convenient platform to bring together the researchers on combinatorial designs, finite geometries, algebraic and combinatorial coding theory, and other related topics. It started during the global pandemic of COVID-19. Usually this half-day event consists of 3 talks.
 
 
+### Next event
 
+TBA
 
 ### Previous event
 
