@@ -9,15 +9,15 @@ TBA
 
 ### Previous event
 
-* **Time**: Mar. 27th, 2021, 8:30 - 12:00   
+* **Time**: Mar. 27th, 2021, 8:30 - 12:00 **[Program](https://github.com/yue-zhou-ovgu/Colloquium/blob/gh-pages/3.pdf)**    
 **Speakers**: Shenglin Zhou (South China University of Technology), Jinxin Zhou (Beijing Jiaotong University), Wei Jin (Central South University)
 
-* **Time**: Dec. 27th, 2020, 8:30 - 12:00   
+
+* **Time**: Dec. 27th, 2020, 8:30 - 12:00 **[Program](https://github.com/yue-zhou-ovgu/Colloquium/blob/gh-pages/2.pdf)**    
 **Speakers**: Jie Han (Huawei), Shohei Satake (Kumamoto University), Shuang-qing Liu (Suzhou University of Science and Technology)
 
-* **Time**: Sep. 26th, 2020, 8:30 - 12:00   
+* **Time**: Sep. 26th, 2020, 8:30 - 12:00  **[Program](https://github.com/yue-zhou-ovgu/Colloquium/blob/gh-pages/1.pdf)**    
 **Speakers**: Shuxing Li (Simon Fraser University), Han Mao Kiah (Nanyang Technological University), Xin Wang (Soochow University)
-
 
 ### Organisers
 [Tao Feng](https://person.zju.edu.cn/en/tfeng), [Xiande Zhang](http://staff.ustc.edu.cn/~drzhangx/) and [Yue Zhou](https://sites.google.com/site/yuejoezhou/)
