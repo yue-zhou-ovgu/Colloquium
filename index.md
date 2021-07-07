@@ -5,7 +5,8 @@ The Colloquium on Combinatorial Designs is a quarterly meeting. The goal is to p
 
 ### Next event
 
-TBA
+**Time**: Jul. 10th, 2021, 14:30 - 18:00 **[Program](https://github.com/yue-zhou-ovgu/Colloquium/blob/gh-pages/4.pdf)**    
+**Speakers**: [Qi Wang](https://faculty.sustech.edu.cn/wangqi/) (Southern University of Science and Technology, China), Hengjia Wei (Ben-Gurion University, Israel), Xuan He (University of Electronic Science and Technology of China)
 
 ### Previous event
 
