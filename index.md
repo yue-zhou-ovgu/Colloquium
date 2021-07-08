@@ -14,10 +14,10 @@ The Colloquium on Combinatorial Designs is a quarterly meeting. The goal is to p
 **Speakers**: Shenglin Zhou (South China University of Technology), Jinxin Zhou (Beijing Jiaotong University), Wei Jin (Central South University)
 
 
-* **Time**: Dec. 27th, 2020, 8:30 - 12:00 **[Program](https://github.com/yue-zhou-ovgu/Colloquium/blob/gh-pages/2.pdf)**    
+* **Time**: Dec. 27th, 2020, 8:30 - 12:00 **[Program](https://./2.pdf)**    
 **Speakers**: Jie Han (Huawei), Shohei Satake (Kumamoto University), Shuang-qing Liu (Suzhou University of Science and Technology)
 
-* **Time**: Sep. 26th, 2020, 8:30 - 12:00  **[Program](https://github.com/yue-zhou-ovgu/Colloquium/blob/gh-pages/1.pdf)**    
+* **Time**: Sep. 26th, 2020, 8:30 - 12:00  **[Program](https://./1.pdf)**    
 **Speakers**: Shuxing Li (Simon Fraser University), Han Mao Kiah (Nanyang Technological University), Xin Wang (Soochow University)
 
 ### Organisers
