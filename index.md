@@ -10,7 +10,7 @@ The Colloquium on Combinatorial Designs is a quarterly meeting. The goal is to p
 
 ### Previous event
 
-* **Time**: Mar. 27th, 2021, 8:30 - 12:00 **[Program](https://github.com/yue-zhou-ovgu/Colloquium/blob/gh-pages/3.pdf)**    
+* **Time**: Mar. 27th, 2021, 8:30 - 12:00 **[Program](https://yue-zhou-ovgu.github.io/Colloquium/3.pdf)**    
 **Speakers**: Shenglin Zhou (South China University of Technology), Jinxin Zhou (Beijing Jiaotong University), Wei Jin (Central South University)
 
 
