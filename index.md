@@ -6,11 +6,12 @@ If you are interested in our coming event, we can add your email address to our 
 
 ### Next event
 
-TBA
+* **Time**: Oct. 17th, 2021, 08:30 - 12:00 **<a target="_blank" href="./5.pdf">Program</a>**.       
+**Speakers**: [Yiwei Zhang](https://faculty.sdu.edu.cn/ywzhang) (Shandong University, China), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc) (Shandong University, China), Weijun Fang (Shandong University, China)
 
 ### Previous event
 
-* **Time**: Jul. 10th, 2021, 14:30 - 18:00 **<a target="_blank" href="./4.pdf">Program</a>**.       
+* **Time**: July 10th, 2021, 14:30 - 18:00 **<a target="_blank" href="./4.pdf">Program</a>**.       
 **Speakers**: [Qi Wang](https://faculty.sustech.edu.cn/wangqi/) (Southern University of Science and Technology, China), Hengjia Wei (Ben-Gurion University, Israel), Xuan He (Southwest Jiaotong University, China)
 
 * **Time**: Mar. 27th, 2021, 8:30 - 12:00 **[Program](https://yue-zhou-ovgu.github.io/Colloquium/3.pdf)**    
