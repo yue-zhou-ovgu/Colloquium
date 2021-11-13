@@ -20,10 +20,10 @@ TBA
 **Speakers**: Shenglin Zhou (South China University of Technology, China), Jinxin Zhou (Beijing Jiaotong University, China), Wei Jin (Central South University, China)
 
 
-* **Time**: Dec. 27th, 2020, 8:30 - 12:00 **[Program](https://./2.pdf)**    
+* **Time**: Dec. 27th, 2020, 8:30 - 12:00 **<a target="_blank" href="./2.pdf">Program</a>**.    
 **Speakers**: Jie Han (Huawei, Hongkong), Shohei Satake (Kumamoto University, Japan), Shuang-qing Liu (Suzhou University of Science and Technology, China)
 
-* **Time**: Sep. 26th, 2020, 8:30 - 12:00  **[Program](https://./1.pdf)**    
+* **Time**: Sep. 26th, 2020, 8:30 - 12:00  **<a target="_blank" href="./1.pdf">Program</a>**.   
 **Speakers**: Shuxing Li (Simon Fraser University, Canada), Han Mao Kiah (Nanyang Technological University, Singapore), Xin Wang (Soochow University, China)
 
 ### Organisers
