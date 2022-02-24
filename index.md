@@ -10,6 +10,9 @@ TBA
 
 ### Previous event
 
+* **Time**: Dec. 5th, 2021, 08:30 - 16:30 **<a target="_blank" href="./6.pdf">Program</a>**.       
+**Speakers**: [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University, China), [Shenggui Zhang](https://teacher.nwpu.edu.cn/sgzhang.html) (Northwestern Polytechnical University, China), [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University, China), [Yizheng Fan](http://math.ahu.edu.cn/fyz/list.htm) (Anhui University, China), [Yongtang Shi](http://cfc.nankai.edu.cn/syt/main.htm) (Nankai University, China)
+
 * **Time**: Oct. 17th, 2021, 08:30 - 12:00 **<a target="_blank" href="./5.pdf">Program</a>**.       
 **Speakers**: [Yiwei Zhang](https://faculty.sdu.edu.cn/ywzhang) (Shandong University, China), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc) (Shandong University, China), Weijun Fang (Shandong University, China)
 
