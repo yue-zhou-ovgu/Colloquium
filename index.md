@@ -6,7 +6,8 @@ If you are interested in our coming event, we can add your email address to our 
 
 ### Next event
 
-TBA
+ **Time**: Mar. 26th, 2022, 08:30 - 12:00 **<a target="_blank" href="./7.pdf">Program</a>**.       
+**Speakers**: [Hongwei Liu](http://maths.ccnu.edu.cn/info/1164/21610.htm) (Central China Normal University, China), [Xiaonan Lu](https://xnlu-math.github.io/) (University of Yamanashi, Japan), [Zilong Wang](https://faculty.xidian.edu.cn/WZL3/en/index.htm) (Xidian University, China)
 
 ### Previous event
 
