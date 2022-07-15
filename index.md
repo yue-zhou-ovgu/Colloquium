@@ -7,7 +7,7 @@ If you are interested in our coming event, we can add your email address to our 
 ### Next event
 
  **Time**: July 17th, 2022, 08:30 - 12:00 **<a target="_blank" href="./8.pdf">Program</a>**.       
-**Speakers**: [Zaiping Lu](http://cfc.nankai.edu.cn/lzp/main.htm) (Nankai University, China), [Xiabin Zhou](https://sites.google.com/site/binzhouxia/) (University of Melbourne, Australia), [Sanming Zhou](https://researchers.ms.unimelb.edu.au/~sanming@unimelb/) (University of Melbourne, Australia)
+**Speakers**: [Zaiping Lu](http://cfc.nankai.edu.cn/lzp/main.htm) (Nankai University, China), [Binzhou Xia](https://sites.google.com/site/binzhouxia/) (University of Melbourne, Australia), [Sanming Zhou](https://researchers.ms.unimelb.edu.au/~sanming@unimelb/) (University of Melbourne, Australia)
 
 ### Previous event
 
