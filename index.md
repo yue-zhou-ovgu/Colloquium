@@ -6,10 +6,13 @@ If you are interested in our coming event, we can add your email address to our 
 
 ### Next event
 
- **Time**: Mar. 26th, 2022, 08:30 - 12:00 **<a target="_blank" href="./7.pdf">Program</a>**.       
+ **Time**: July 17th, 2022, 08:30 - 12:00 **<a target="_blank" href="./8.pdf">Program</a>**.       
 **Speakers**: [Hongwei Liu](http://maths.ccnu.edu.cn/info/1164/21610.htm) (Central China Normal University, China), [Xiaonan Lu](https://xnlu-math.github.io/) (University of Yamanashi, Japan), [Zilong Wang](https://faculty.xidian.edu.cn/WZL3/en/index.htm) (Xidian University, China)
 
 ### Previous event
+
+* **Time**: Mar. 26th, 2022, 08:30 - 12:00 **<a target="_blank" href="./7.pdf">Program</a>**.       
+**Speakers**: [Hongwei Liu](http://maths.ccnu.edu.cn/info/1164/21610.htm) (Central China Normal University, China), [Xiaonan Lu](https://xnlu-math.github.io/) (University of Yamanashi, Japan), [Zilong Wang](https://faculty.xidian.edu.cn/WZL3/en/index.htm) (Xidian University, China)
 
 * **Time**: Dec. 5th, 2021, 08:30 - 16:30 **<a target="_blank" href="./6.pdf">Program</a>**.       
 **Speakers**: [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University, China), [Shenggui Zhang](https://teacher.nwpu.edu.cn/sgzhang.html) (Northwestern Polytechnical University, China), [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University, China), [Yizheng Fan](http://math.ahu.edu.cn/fyz/list.htm) (Anhui University, China), [Yongtang Shi](http://cfc.nankai.edu.cn/syt/main.htm) (Nankai University, China)
