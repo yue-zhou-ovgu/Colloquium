@@ -37,4 +37,4 @@ If you are interested in our coming event, we can add your email address to our 
 **Speakers**: Shuxing Li (Simon Fraser University, Canada), Han Mao Kiah (Nanyang Technological University, Singapore), Xin Wang (Soochow University, China)
 
 ### Organisers
-[Tao Feng](https://person.zju.edu.cn/en/tfeng), (Chong Shangguan)[https://sites.google.com/view/chongshangguan], [Xiande Zhang](http://staff.ustc.edu.cn/~drzhangx/) and [Yue Zhou](https://sites.google.com/site/yuejoezhou/)
+[Tao Feng](https://person.zju.edu.cn/en/tfeng), [Chong Shangguan](https://sites.google.com/view/chongshangguan), [Xiande Zhang](http://staff.ustc.edu.cn/~drzhangx/) and [Yue Zhou](https://sites.google.com/site/yuejoezhou/)
